@@ -13,3 +13,4 @@
 11. Sequence Pattern Matching
 12. Minimum ASCII Delete Sum for Two Strings (LeetCode)
 13. Maximum Length of Repeated Subarray (LeetCode)
+14. Palindromic Substrings (LeetCode)
